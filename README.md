@@ -77,3 +77,6 @@ void Update(){
 
 
 ## Result:
+Thus, a 3D Unity application to roll a ball using keyboard inputs was successfully developed and executed. The ball movement was controlled through applied physics forces using the `Rigidbody` component, and the desired rolling behavior was achieved.
+
+
